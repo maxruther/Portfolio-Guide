@@ -12,7 +12,7 @@ Welcome to my portfolio! Here I document a summary of my data-related projects.
 <br></br>
 ## All Projects
 
-<br></br>
+
 ### Data Analysis & Modelling
 
 | Project | Tools | Skills Involved | Project Description |
