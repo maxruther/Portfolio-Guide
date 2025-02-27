@@ -7,7 +7,7 @@ Welcome to my portfolio! Here I document a summary of my data-related projects.
 | Project | Tools | Skills Involved | Project Description |
 | --- | --- | --- | --- |
 | <a href='https://github.com/maxruther/HCP_Fraud_Detection'>**Healthcare Provider Claim Fraud Detection**</a> | Python, Colab | Data Integration, Feature Engineering, Correlation-Based Feature Selection, Oversampling, Exploratory Visualization, Ensemble Learning | Detecting claim fraudulence by healthcare providers, by implementing techniques from relevant literature. |
-| <a href='https://github.com/maxruther/Movie-List_Madness'>**Movie-Mad Max's Database and Scrapers**</a> | Python (Pandas, Scikit-Learn, SQLAlchemy, Selenium, BeautifulSoup, Google API), MySQL, Google Calendar  | ETL Processing, Database Management, Validation, Web-Scraping, Automated Search and Relevance Assessment, Review Ratings Analysis, Automated Scheduling Integration | HTML-parsing personal movie journals, review websites, and more to build a MySQL database primed for ratings prediction. |
+| <a href='https://github.com/maxruther/Movie-List-Madness'>**Movie-Mad Max's Database and Scrapers**</a> | Python (Pandas, Scikit-Learn, SQLAlchemy, Selenium, BeautifulSoup, Google API), MySQL, Google Calendar  | ETL Processing, Database Management, Validation, Web-Scraping, Automated Search and Relevance Assessment, Review Ratings Analysis, Automated Scheduling Integration | HTML-parsing personal movie journals, review websites, and more to build a MySQL database primed for ratings prediction. |
 
 <br></br>
 ## All Projects
